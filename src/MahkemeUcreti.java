@@ -6,8 +6,8 @@ public class MahkemeUcreti {
         System.out.print("Juri sayısı: ");
         int juriSayisi = input.nextInt();
 
-        int birinciHakimUcreti = 3750;
-        int ikinciHakimUcreti = 3200;
+        int birinciHakimUcreti = 37500;
+        int ikinciHakimUcreti = 32000;
         int juriUcreti = 50;
 
         double beraatOrani = 0;
